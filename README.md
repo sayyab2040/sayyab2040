@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Sayyab Ashraf 👋
 
-<!--
-**sayyab2040/sayyab2040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on full-stack development, QA automation, DevOps workflows, cloud deployment, monitoring, and product-focused digital solutions.
 
-Here are some ideas to get you started:
+🌐 Portfolio: https://sayyab.me  
+💼 Role: Software Engineer  
+⚙️ Skills: React, Vite, QA Automation, DevOps, Docker, Jenkins, Cloud Deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Work
+
+- TravEra — AI-based travel planning and booking platform
+- DevOps pipeline projects with Jenkins, Docker, monitoring, and deployment
+- QA automation and testing workflows

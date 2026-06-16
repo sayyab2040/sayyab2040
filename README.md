@@ -2,7 +2,7 @@
 
 Software Engineer focused on full-stack development, QA automation, DevOps workflows, cloud deployment, monitoring, and product-focused digital solutions.
 
-🌐 Portfolio: https://sayyab.me  
+🌐 Portfolio: https://www.sayyab.me 
 💼 Role: Software Engineer  
 ⚙️ Skills: React, Vite, QA Automation, DevOps, Docker, Jenkins, Cloud Deployment
 
